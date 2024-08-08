@@ -1,1 +1,1 @@
-alert("welcome to sigma webdevelopment code")
+alert("welcome to  webdevelopment code")
